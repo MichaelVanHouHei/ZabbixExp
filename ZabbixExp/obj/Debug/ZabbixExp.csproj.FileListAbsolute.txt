@@ -1,0 +1,11 @@
+G:\C#\ZabbixExp\ZabbixExp\obj\Debug\ZabbixExp.Properties.Resources.resources
+G:\C#\ZabbixExp\ZabbixExp\obj\Debug\ZabbixExp.csproj.GenerateResource.Cache
+G:\C#\ZabbixExp\ZabbixExp\bin\Debug\ZabbixExp.exe
+G:\C#\ZabbixExp\ZabbixExp\bin\Debug\ZabbixExp.pdb
+G:\C#\ZabbixExp\ZabbixExp\obj\Debug\ZabbixExp.exe
+G:\C#\ZabbixExp\ZabbixExp\obj\Debug\ZabbixExp.pdb
+G:\C#\ZabbixExp\ZabbixExp\bin\Debug\MetroFramework.Design.dll
+G:\C#\ZabbixExp\ZabbixExp\bin\Debug\MetroFramework.dll
+G:\C#\ZabbixExp\ZabbixExp\bin\Debug\MetroFramework.Fonts.dll
+G:\C#\ZabbixExp\ZabbixExp\obj\Debug\ZabbixExp.MainFrm.resources
+G:\C#\ZabbixExp\ZabbixExp\obj\Debug\ZabbixExp.csprojResolveAssemblyReference.cache
